@@ -69,7 +69,7 @@
 </head>
 <body>
   <header>
-    <img src="logo.png" alt="Vapara Logo" class="logo" />
+    <img src="C:\Users\HP\Downloads" alt="Vapara Logo" class="logo" />
     <h1>Vapara</h1>
     <p>Printed Tees Inspired by Travel & Nature</p>
   </header>
